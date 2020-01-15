@@ -1,13 +1,6 @@
-class AddFavoriteFoodToArtists < ActiveRecord::Migration[5.2]
-  
-  def up
-  end
+#class AddFavoriteFoodToArtists < ActiveRecord::Migration[5.2]
+#  def change
+#    add_column :artists, :favorite_food, :string
+#  end
 
-  def down
-  end
-
-  def change
-    add_column :artists, :favorite_food, :string
-  end
-
-end
+#end
