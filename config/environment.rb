@@ -16,4 +16,3 @@ ActiveRecord::Base.establish_connection(
 )
 
 require_relative "../artist.rb"
-require_relative "../db/migrate"
